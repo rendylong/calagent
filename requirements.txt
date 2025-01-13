@@ -1,0 +1,9 @@
+crewai
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+requests 
